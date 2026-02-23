@@ -1,5 +1,12 @@
 # ai-forensic-trainer
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/ai-forensic-trainer/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/ai-forensic-trainer/actions)
+![License](https://img.shields.io/github/license/yksanjo/ai-forensic-trainer)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/ai-forensic-trainer)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/ai-forensic-trainer)
+
 ## Detailed Description
 
 ai-forensic-trainer is maintained as an industry-grade software project with production-ready engineering practices.  
